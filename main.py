@@ -58,8 +58,7 @@ class DialoGPTChatbot:
 
 
 if __name__ == "__main__":
-    
-    # Run the chatbot via the terminal.
+
     bot = DialoGPTChatbot()
     print("Welcome! (Type 'exit' to quit)")
 
